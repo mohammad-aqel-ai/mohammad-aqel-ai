@@ -25,7 +25,7 @@ I like building machine learning models that solve real problems — especially 
 
 | Project | What it does | Tech |
 |---|---|---|
-| *Coming soon* | | |
+| [Natural-Scene Classification + Grad-CAM](https://github.com/mohammad-aqel-ai/intel-scene-classification-gradcam) | Custom residual CNN that sorts photos into 6 scene types (88.4% test accuracy), with Grad-CAM heatmaps showing what the model looks at | TensorFlow/Keras · CNN · Grad-CAM |
 
 ---
 
