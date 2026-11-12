@@ -9,7 +9,7 @@ I like building machine learning models that solve real problems — especially 
 
 ### 🛠️ Skills
 
-**Languages:** Python · SQL (basic) · Java (OOP)
+**Languages:** Python · SQL (basic)
 
 **Machine Learning & Data:** scikit-learn · pandas · NumPy · Matplotlib · Seaborn
 
