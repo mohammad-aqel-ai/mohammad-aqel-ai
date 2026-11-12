@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Mohammad Aqel 👋
 
-<!--
-**mohammad-aqel-ai/mohammad-aqel-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI & Data Science student** at Taylor's University (BSc Computer Science, AI specialization).
+I like building machine learning models that solve real problems — especially in **computer vision** and **predictive analytics**.
 
-Here are some ideas to get you started:
+🔎 **Open to internships:** April – August 2027 · Saudi Arabia (Eastern Province) or Malaysia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills
+
+**Languages:** Python · SQL (basic) · Java (OOP)
+
+**Machine Learning & Data:** scikit-learn · pandas · NumPy · Matplotlib · Seaborn
+
+**Deep Learning & Computer Vision:** TensorFlow / Keras · CNNs · Grad-CAM (model explainability)
+
+**Tools:** Jupyter Notebook · Google Colab · Git & GitHub
+
+**Spoken languages:** Arabic (native) · English (fluent)
+
+---
+
+### 📂 Featured Projects
+
+| Project | What it does | Tech |
+|---|---|---|
+| *Coming soon* | | |
+
+---
+
+### 📫 Contact
+- **Email:** mohammad.aqel.tech@gmail.com
+- **LinkedIn:** *coming soon*
