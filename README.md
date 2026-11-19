@@ -26,6 +26,7 @@ I like building machine learning models that solve real problems — especially 
 | Project | What it does | Tech |
 |---|---|---|
 | [Natural-Scene Classification + Grad-CAM](https://github.com/mohammad-aqel-ai/intel-scene-classification-gradcam) | Custom residual CNN that sorts photos into 6 scene types (88.4% test accuracy), with Grad-CAM heatmaps showing what the model looks at | TensorFlow/Keras · CNN · Grad-CAM |
+| [Customer Churn Prediction](https://github.com/mohammad-aqel-ai/customer-churn-prediction) | Found that a 90%-accuracy model missed half the customers who left, then fixed it: Gradient Boosting + tuned threshold catches 91% of churners (was 48%) | scikit-learn · pandas · Gradient Boosting |
 
 ---
 
